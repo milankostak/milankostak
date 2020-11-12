@@ -1,9 +1,4 @@
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milankostak&count_private=true&show_icons=true&theme=vue&hide_rank=true&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milankostak&theme=graywhite&hide_title=true&show_icons=true&langs_count=4&hide_border=true" />
-</a>
+  <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=milankostak&count_private=true&show_icons=true&theme=vue&hide_rank=true&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milankostak&theme=graywhite&hide_title=true&show_icons=true&langs_count=4&hide_border=true" /></span>
 
 <!--
 **milankostak/milankostak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
