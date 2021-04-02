@@ -1,6 +1,12 @@
-  <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=milankostak&count_private=true&show_icons=true&theme=vue&hide_rank=true&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milankostak&theme=graywhite&hide_title=true&show_icons=true&langs_count=4&hide_border=true" /></span>
+<img src="https://github-readme-stats.vercel.app/api?username=milankostak&count_private=true&include_all_commits=true&show_icons=true&theme=vue&hide_rank=true&hide_border=true&disable_animations=true" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=milankostak&count_private=true&show_icons=true&theme=vue&hide_rank=true&hide_border=true&disable_animations=true" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milankostak&theme=vue&show_icons=true&langs_count=10&hide_border=true&layout=compact" />
+<br>
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=milankostak" />
 **milankostak/milankostak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
