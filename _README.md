@@ -4,9 +4,11 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milankostak&theme=vue&show_icons=true&langs_count=10&hide_border=true&layout=compact" />
 <br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=milankostak&theme=vue&layout=compact" />
+<br>
+https://github.com/anuraghazra/github-readme-stats
 
 <!--
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=milankostak" />
 **milankostak/milankostak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
